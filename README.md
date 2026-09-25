@@ -18,7 +18,7 @@ Estudante apaixonado por tecnologia, focado em entender como construir sistemas 
 * **🤖 Machine Learning:** Desenvolvimento e treino de modelos preditivos, manipulação e análise de dados utilizando Python, e automação de processos inteligentes.
 * **🔒 Cibersegurança:** Estudos voltados para segurança defensiva, análise de vulnerabilidades, redes e a aplicação de inteligência artificial para detecção de ameaças.
 
----
+-----
 
 ### 🚀 Tecnologias e Ferramentas
 
@@ -29,4 +29,4 @@ Estudante apaixonado por tecnologia, focado em entender como construir sistemas 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
 </p>
 
----
+-----
