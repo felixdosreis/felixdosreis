@@ -31,9 +31,3 @@ Estudante focado em engenharia de sistemas inteligentes, automação e arquitetu
 </p>
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felixdosres&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
