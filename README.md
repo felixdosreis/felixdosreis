@@ -1,32 +1,39 @@
-# Olá, eu sou o Félix 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá, eu sou o Félix
+</h1>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-00599C?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Cibersegurança-FF5722?style=for-the-badge&logo=icloud&logoColor=white" alt="Cibersegurança">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Python+%26+Data+Science;Segurança+Defensiva+%26+Automação" alt="Typing SVG" />
 </p>
 
------
+---
 
 ### 💻 Sobre Mim
 
-Estudante apaixonado por tecnologia, focado em entender como construir sistemas inteligentes automatizados é seguros. Atualmente, concentro meus estudos e projetos nas áreas de **Machine Learning** e **Cibersegurança**.
+Estudante focado em engenharia de sistemas inteligentes, automação e arquitetura de dados. Atualmente concentro minhas pesquisas e projetos práticos no desenvolvimento de modelos preditivos, otimização de fluxos em **Python** e engenharia voltada para segurança defensiva.
 
 ---
 
 ### 🛠️ Áreas de Foco
 
-* **🤖 Machine Learning:** Desenvolvimento e treino de modelos preditivos, manipulação e análise de dados utilizando Python, e automação de processos inteligentes.
-* **🔒 Cibersegurança:** Estudos voltados para segurança defensiva, análise de vulnerabilidades, redes e a aplicação de inteligência artificial para detecção de ameaças.
+* **🤖 Machine Learning & Data Science:** Desenvolvimento e treinamento de modelos preditivos, manipulação avançada de grandes volumes de dados e automação de processos inteligentes utilizando o ecossistema Python.
+* **🔒 Cibersegurança & Redes:** Estudos voltados para segurança defensiva, análise de vulnerabilidades, infraestrutura de redes e aplicação de IA na detecção de ameaças.
 
------
+---
 
 ### 🚀 Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
------
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felixdosres&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
