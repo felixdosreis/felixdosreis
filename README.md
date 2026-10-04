@@ -9,7 +9,7 @@
 
 ### 💻 Sobre Mim
 
-Estudante apaixonado por tecnologia, focado em entender como construir sistemas inteligentes e, ao mesmo tempo, seguros. Atualmente, concentro meus estudos e projetos nas áreas de **Machine Learning** e **Cibersegurança**.
+Estudante apaixonado por tecnologia, focado em entender como construir sistemas inteligentes automatizados é seguros. Atualmente, concentro meus estudos e projetos nas áreas de **Machine Learning** e **Cibersegurança**.
 
 ---
 
