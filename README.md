@@ -10,7 +10,7 @@
 
 ### 💻 Sobre Mim
 
-Estudante focado em engenharia de sistemas inteligentes, automação e arquitetura de dados. Atualmente concentro minhas pesquisas e projetos práticos no desenvolvimento de modelos preditivos, otimização de fluxos em **Python** e engenharia voltada para segurança defensiva.
+Estudante focado em engenharia de sistemas inteligentes, automação e arquitetura de dados. Atualmente concentro minhas pesquisas e projetos práticos no desenvolvimento de modelos preditivos, otimização de fluxos em **Python** e engenharia voltada para segurança.
 
 ---
 
