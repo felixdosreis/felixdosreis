@@ -12,6 +12,9 @@
 
 Estudante focado em engenharia de sistemas inteligentes, automação e arquitetura de dados. Atualmente concentro minhas pesquisas e projetos práticos no desenvolvimento de modelos preditivos, otimização de fluxos em **Python** e engenharia voltada para segurança.
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+
 ----
 
 ### 🛠️ Áreas de Foco
