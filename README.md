@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá, eu sou o Félix
+  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f44b-1f3ff.svg" width="30px"> Olá, eu sou o Félix
 </h1>
 
 <p align="center">
