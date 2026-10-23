@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Python+%26+Data+Science;Segurança+Defensiva+%26+Automação" alt="Typing SVG" />
 </p>
 
-----
+---
 
 ### 💻 Sobre Mim
 
@@ -15,14 +15,14 @@ Estudante focado em engenharia de sistemas inteligentes, automação e arquitetu
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
-----
+---
 
 ### 🛠️ Áreas de Foco
 
 * **🤖 Machine Learning & Data Science:** Desenvolvimento e treinamento de modelos preditivos, manipulação avançada de grandes volumes de dados e automação de processos inteligentes utilizando o ecossistema Python.
 * **🔒 Cibersegurança & Redes:** Estudos voltados para segurança defensiva, análise de vulnerabilidades, infraestrutura de redes e aplicação de IA na detecção de ameaças.
 
-----
+---
 
 ### 🚀 Tecnologias e Ferramentas
 
